@@ -1,0 +1,25 @@
+.details {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.detail--column_list_cities {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+.detail--column_list_walkers {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+.detail--column_list_pets {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+
+.assignments {
+    padding: 1rem 5rem;
+}
+
